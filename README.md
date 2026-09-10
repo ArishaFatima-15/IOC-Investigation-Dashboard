@@ -19,8 +19,8 @@ An end-to-end Security Operations Center (SOC) Minimum Viable Product (MVP) desi
 * **Data Sources:** ThreatFox (Abuse.ch) API
 * **Data Format:** CSV / JSON Structured Logs
 
-## Repository Structure:
-* `fetch_ioc_feeds.py` - Main data pipeline and enrichment script
-* `live_ioc_feed.csv` - Ingested IOC log dataset
-* `SPL Queries.txt` - Splunk dashboard panel queries
-* `Arisha Fatima_IOC_Investigation_Dashboard.pdf` - Complete documentation & analysis report
+## Files:
+* [fetch_ioc_feeds.py](fetch_ioc_feeds.py) — Main Data Pipeline & Enrichment Script  
+* [live_ioc_feed.csv](live_ioc_feed.csv) — Ingested IOC Log Dataset  
+* [SPL Queries.txt](SPL%20Queries.txt) — Splunk Dashboard Panel Queries  
+* [Arisha Fatima_IOC_Investigation_Dashboard.pdf](Arisha%20Fatima_IOC_Investigation_Dashboard.pdf) — Complete Documentation & Project Analysis Report
