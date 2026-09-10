@@ -1,0 +1,16 @@
+SPL Queries Used In Dashboard Panels:
+
+1. SOC Main Triage Feed: 
+index="ioc_investigation" | table timestamp ioc_value ioc_type severity status assigned_analyst incident_id malware_printable 
+ 
+2. Severity Breakdown: 
+index="ioc_investigation" | stats count by severity 
+ 
+3. Incident Campaign Correlation: 
+index="ioc_investigation" | stats values(ioc_value) as Associated_IOCs, values(ioc_type) as Types count by incident_id, malware_printable 
+ 
+4. Threat Types by Severity: 
+index="ioc_investigation" | chart count by ioc_type severity
+ 
+5.Historical Trend View: 
+index="ioc_investigation" | timechart span=1h count by severity

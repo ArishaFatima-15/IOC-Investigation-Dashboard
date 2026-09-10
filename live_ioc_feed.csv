@@ -1,0 +1,31 @@
+timestamp,ioc_value,ioc_type,threat_type,severity,status,assigned_analyst,incident_id,malware_printable
+2026-09-08T18:37:29Z,http://smaring.shop:9895/collections,url,botnet_cc,Critical,New,Unassigned,INC-101,None
+2026-09-08T18:37:29Z,http://trencts.shop:8592/notifications,url,botnet_cc,Critical,Under Investigation,Analyst_Sara,INC-102,None
+2026-09-08T18:37:29Z,lexaqy.workers.dev,domain,botnet_cc,Critical,New,Unassigned,INC-103,None
+2026-09-08T18:37:29Z,154.91.61.104:8094,ip:port,botnet_cc,Critical,Under Investigation,Analyst_Ali,INC-104,None
+2026-09-08T18:37:29Z,154.91.61.111:8094,ip:port,botnet_cc,Critical,New,Unassigned,INC-105,None
+2026-09-08T18:37:29Z,154.91.62.116:8094,ip:port,botnet_cc,Critical,Under Investigation,Analyst_Sara,INC-101,None
+2026-09-08T18:37:29Z,154.91.62.101:8094,ip:port,botnet_cc,Critical,New,Unassigned,INC-102,None
+2026-09-08T18:37:29Z,papema.workers.dev,domain,botnet_cc,Critical,Under Investigation,Analyst_Sara,INC-103,None
+2026-09-08T18:37:29Z,lajojidu.workers.dev,domain,botnet_cc,Critical,New,Unassigned,INC-104,None
+2026-09-08T18:37:29Z,https://168.222.97.79,url,botnet_cc,Critical,Under Investigation,Analyst_Ali,INC-105,None
+2026-09-08T18:37:29Z,i0545ylreb.workers.dev,domain,botnet_cc,Critical,New,Unassigned,INC-101,None
+2026-09-08T18:37:29Z,8a226u7n.melemoeuhane.com,domain,payload_delivery,High,Under Investigation,Analyst_Sara,INC-102,None
+2026-09-08T18:37:29Z,melemoeuhane.com,domain,payload_delivery,High,New,Unassigned,INC-103,None
+2026-09-08T18:37:29Z,154.91.58.123:8094,ip:port,botnet_cc,Critical,Under Investigation,Analyst_Sara,INC-104,None
+2026-09-08T18:37:29Z,154.91.62.120:8094,ip:port,botnet_cc,Critical,New,Unassigned,INC-105,None
+2026-09-08T18:37:29Z,42.194.241.92:80,ip:port,botnet_cc,Critical,Under Investigation,Analyst_Ali,INC-101,Agentemis
+2026-09-08T18:37:29Z,102.117.169.96:7443,ip:port,botnet_cc,Critical,New,Unassigned,INC-102,None
+2026-09-08T18:37:29Z,8.219.154.237:44321,ip:port,botnet_cc,Critical,Under Investigation,Analyst_Sara,INC-103,None
+2026-09-08T18:37:29Z,q2bff0vb.us-neuro-vera.com,domain,payload_delivery,High,New,Unassigned,INC-104,None
+2026-09-08T18:37:29Z,det6cgcu.www-cardioslim.com,domain,payload_delivery,High,Under Investigation,Analyst_Sara,INC-105,None
+2026-09-08T18:37:29Z,http://quicbud.shop:7647/folders,url,botnet_cc,Critical,New,Unassigned,INC-101,None
+2026-09-08T18:37:29Z,http://trencts.shop:8592/workspaces,url,botnet_cc,Critical,Under Investigation,Analyst_Ali,INC-102,None
+2026-09-08T18:37:29Z,http://futlink.click:4326/products,url,botnet_cc,Critical,New,Unassigned,INC-103,None
+2026-09-08T18:37:29Z,http://quicbud.shop:7647/categories,url,botnet_cc,Critical,Under Investigation,Analyst_Sara,INC-104,None
+2026-09-08T18:37:29Z,http://trencts.shop:8592/messages,url,botnet_cc,Critical,New,Unassigned,INC-105,None
+2026-09-08T18:37:29Z,http://doresxa.click:6271/videos,url,botnet_cc,Critical,Under Investigation,Analyst_Sara,INC-101,None
+2026-09-08T18:37:29Z,134.122.155.243:8085,ip:port,botnet_cc,Critical,New,Unassigned,INC-102,None
+2026-09-08T18:37:29Z,42.194.241.92:8080,ip:port,botnet_cc,Critical,Under Investigation,Analyst_Ali,INC-103,Agentemis
+2026-09-08T18:37:29Z,qudozope.workers.dev,domain,botnet_cc,Critical,New,Unassigned,INC-104,None
+2026-09-08T18:37:29Z,http://quicbud.shop:7647/invoices,url,botnet_cc,Critical,Under Investigation,Analyst_Sara,INC-105,None
